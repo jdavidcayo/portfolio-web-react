@@ -3,7 +3,7 @@ import 'animate.css/animate.min.css'
 
 const SeccionI = () => {
   return (
-        <div className="col-md-12 shadow-lg px-2 mt-2 animate_animated animate__fadeInUp">
+        <div className="col-md-12 shadow-lg px-2 mt-2 animate__animated animate__fadeInUp">
             <div className="row">
                 
                     <div className="col-md-4 mt-2 p-2 seccionI">

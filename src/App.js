@@ -4,10 +4,12 @@ import SeccionI from './components/SeccionI'
 import SeccionII from './components/SeccionII'
 import SeccionIIIPortfolio from './components/SeccionIIIPortfolio'
 
+import 'animate.css/animate.min.css'
+
 const App = () => {
   return (
     <>
-      <Navbar />
+    <Navbar />
     <div className="container">
       <SeccionI />
       <SeccionII />

@@ -4,7 +4,7 @@ import 'bootswatch/dist/cosmo/bootstrap.min.css'
 
 const SeccionII = () => {
   return (
-            <div className="col-md-12 my-4 shadow-lg">
+            <div className="col-md-12 my-4 shadow-lg animate__animated animate__fadeInUp">
                 <div className="row">
                     <div className="col-md-4 px-4 py-2">
                         {
